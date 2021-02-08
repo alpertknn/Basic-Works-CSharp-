@@ -1,0 +1,10 @@
+C:\Users\HKU\source\repos\alpernew\alpernew\bin\Debug\alpernew.exe.config
+C:\Users\HKU\source\repos\alpernew\alpernew\bin\Debug\alpernew.exe
+C:\Users\HKU\source\repos\alpernew\alpernew\bin\Debug\alpernew.pdb
+C:\Users\HKU\source\repos\alpernew\alpernew\obj\Debug\alpernew.csprojAssemblyReference.cache
+C:\Users\HKU\source\repos\alpernew\alpernew\obj\Debug\alpernew.Form1.resources
+C:\Users\HKU\source\repos\alpernew\alpernew\obj\Debug\alpernew.Properties.Resources.resources
+C:\Users\HKU\source\repos\alpernew\alpernew\obj\Debug\alpernew.csproj.GenerateResource.cache
+C:\Users\HKU\source\repos\alpernew\alpernew\obj\Debug\alpernew.csproj.CoreCompileInputs.cache
+C:\Users\HKU\source\repos\alpernew\alpernew\obj\Debug\alpernew.exe
+C:\Users\HKU\source\repos\alpernew\alpernew\obj\Debug\alpernew.pdb

@@ -1,0 +1,11 @@
+C:\Users\tt\Desktop\c#,\ThirdTask\obj\Debug\netcoreapp3.0\ThirdTask.csprojAssemblyReference.cache
+C:\Users\tt\Desktop\c#,\ThirdTask\obj\Debug\netcoreapp3.0\ThirdTask.AssemblyInfoInputs.cache
+C:\Users\tt\Desktop\c#,\ThirdTask\obj\Debug\netcoreapp3.0\ThirdTask.AssemblyInfo.cs
+C:\Users\tt\Desktop\c#,\ThirdTask\bin\Debug\netcoreapp3.0\ThirdTask.exe
+C:\Users\tt\Desktop\c#,\ThirdTask\bin\Debug\netcoreapp3.0\ThirdTask.deps.json
+C:\Users\tt\Desktop\c#,\ThirdTask\bin\Debug\netcoreapp3.0\ThirdTask.runtimeconfig.json
+C:\Users\tt\Desktop\c#,\ThirdTask\bin\Debug\netcoreapp3.0\ThirdTask.runtimeconfig.dev.json
+C:\Users\tt\Desktop\c#,\ThirdTask\bin\Debug\netcoreapp3.0\ThirdTask.dll
+C:\Users\tt\Desktop\c#,\ThirdTask\bin\Debug\netcoreapp3.0\ThirdTask.pdb
+C:\Users\tt\Desktop\c#,\ThirdTask\obj\Debug\netcoreapp3.0\ThirdTask.dll
+C:\Users\tt\Desktop\c#,\ThirdTask\obj\Debug\netcoreapp3.0\ThirdTask.pdb

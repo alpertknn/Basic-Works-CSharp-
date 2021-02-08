@@ -1,0 +1,11 @@
+C:\Users\tt\Desktop\c#,\FirstTask\bin\Debug\netcoreapp3.0\FirstTask.exe
+C:\Users\tt\Desktop\c#,\FirstTask\bin\Debug\netcoreapp3.0\FirstTask.deps.json
+C:\Users\tt\Desktop\c#,\FirstTask\bin\Debug\netcoreapp3.0\FirstTask.runtimeconfig.json
+C:\Users\tt\Desktop\c#,\FirstTask\bin\Debug\netcoreapp3.0\FirstTask.runtimeconfig.dev.json
+C:\Users\tt\Desktop\c#,\FirstTask\bin\Debug\netcoreapp3.0\FirstTask.dll
+C:\Users\tt\Desktop\c#,\FirstTask\bin\Debug\netcoreapp3.0\FirstTask.pdb
+C:\Users\tt\Desktop\c#,\FirstTask\obj\Debug\netcoreapp3.0\FirstTask.csprojAssemblyReference.cache
+C:\Users\tt\Desktop\c#,\FirstTask\obj\Debug\netcoreapp3.0\FirstTask.AssemblyInfoInputs.cache
+C:\Users\tt\Desktop\c#,\FirstTask\obj\Debug\netcoreapp3.0\FirstTask.AssemblyInfo.cs
+C:\Users\tt\Desktop\c#,\FirstTask\obj\Debug\netcoreapp3.0\FirstTask.dll
+C:\Users\tt\Desktop\c#,\FirstTask\obj\Debug\netcoreapp3.0\FirstTask.pdb

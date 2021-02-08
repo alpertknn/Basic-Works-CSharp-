@@ -1,0 +1,9 @@
+C:\Users\tt\source\repos\WeeK2LabWorkk\bin\Debug\WeeK2LabWorkk.exe.config
+C:\Users\tt\source\repos\WeeK2LabWorkk\bin\Debug\WeeK2LabWorkk.exe
+C:\Users\tt\source\repos\WeeK2LabWorkk\bin\Debug\WeeK2LabWorkk.pdb
+C:\Users\tt\source\repos\WeeK2LabWorkk\obj\Debug\WeeK2LabWorkk.csprojAssemblyReference.cache
+C:\Users\tt\source\repos\WeeK2LabWorkk\obj\Debug\WeeK2LabWorkk.Form1.resources
+C:\Users\tt\source\repos\WeeK2LabWorkk\obj\Debug\WeeK2LabWorkk.Properties.Resources.resources
+C:\Users\tt\source\repos\WeeK2LabWorkk\obj\Debug\WeeK2LabWorkk.csproj.GenerateResource.cache
+C:\Users\tt\source\repos\WeeK2LabWorkk\obj\Debug\WeeK2LabWorkk.exe
+C:\Users\tt\source\repos\WeeK2LabWorkk\obj\Debug\WeeK2LabWorkk.pdb

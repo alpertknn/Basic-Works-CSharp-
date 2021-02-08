@@ -1,0 +1,9 @@
+C:\Users\tt\Desktop\c#,\LastTask\obj\Debug\LastTask.csprojAssemblyReference.cache
+C:\Users\tt\Desktop\c#,\LastTask\obj\Debug\LastTask.Form1.resources
+C:\Users\tt\Desktop\c#,\LastTask\obj\Debug\LastTask.Properties.Resources.resources
+C:\Users\tt\Desktop\c#,\LastTask\obj\Debug\LastTask.csproj.GenerateResource.cache
+C:\Users\tt\Desktop\c#,\LastTask\bin\Debug\LastTask.exe.config
+C:\Users\tt\Desktop\c#,\LastTask\bin\Debug\LastTask.exe
+C:\Users\tt\Desktop\c#,\LastTask\bin\Debug\LastTask.pdb
+C:\Users\tt\Desktop\c#,\LastTask\obj\Debug\LastTask.exe
+C:\Users\tt\Desktop\c#,\LastTask\obj\Debug\LastTask.pdb

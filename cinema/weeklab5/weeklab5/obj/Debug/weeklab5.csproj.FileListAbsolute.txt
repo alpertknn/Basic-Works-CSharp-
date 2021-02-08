@@ -1,0 +1,10 @@
+C:\Users\HKU\source\repos\weeklab5\weeklab5\obj\Debug\weeklab5.csprojAssemblyReference.cache
+C:\Users\HKU\source\repos\weeklab5\weeklab5\obj\Debug\weeklab5.Form1.resources
+C:\Users\HKU\source\repos\weeklab5\weeklab5\obj\Debug\weeklab5.Properties.Resources.resources
+C:\Users\HKU\source\repos\weeklab5\weeklab5\obj\Debug\weeklab5.csproj.GenerateResource.cache
+C:\Users\HKU\source\repos\weeklab5\weeklab5\obj\Debug\weeklab5.csproj.CoreCompileInputs.cache
+C:\Users\HKU\source\repos\weeklab5\weeklab5\bin\Debug\weeklab5.exe.config
+C:\Users\HKU\source\repos\weeklab5\weeklab5\bin\Debug\weeklab5.exe
+C:\Users\HKU\source\repos\weeklab5\weeklab5\bin\Debug\weeklab5.pdb
+C:\Users\HKU\source\repos\weeklab5\weeklab5\obj\Debug\weeklab5.exe
+C:\Users\HKU\source\repos\weeklab5\weeklab5\obj\Debug\weeklab5.pdb

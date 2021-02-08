@@ -1,0 +1,11 @@
+C:\Users\tt\Desktop\c#,\SecondTask\bin\Debug\netcoreapp3.0\SecondTask.exe
+C:\Users\tt\Desktop\c#,\SecondTask\bin\Debug\netcoreapp3.0\SecondTask.deps.json
+C:\Users\tt\Desktop\c#,\SecondTask\bin\Debug\netcoreapp3.0\SecondTask.runtimeconfig.json
+C:\Users\tt\Desktop\c#,\SecondTask\bin\Debug\netcoreapp3.0\SecondTask.runtimeconfig.dev.json
+C:\Users\tt\Desktop\c#,\SecondTask\bin\Debug\netcoreapp3.0\SecondTask.dll
+C:\Users\tt\Desktop\c#,\SecondTask\bin\Debug\netcoreapp3.0\SecondTask.pdb
+C:\Users\tt\Desktop\c#,\SecondTask\obj\Debug\netcoreapp3.0\SecondTask.csprojAssemblyReference.cache
+C:\Users\tt\Desktop\c#,\SecondTask\obj\Debug\netcoreapp3.0\SecondTask.AssemblyInfoInputs.cache
+C:\Users\tt\Desktop\c#,\SecondTask\obj\Debug\netcoreapp3.0\SecondTask.AssemblyInfo.cs
+C:\Users\tt\Desktop\c#,\SecondTask\obj\Debug\netcoreapp3.0\SecondTask.dll
+C:\Users\tt\Desktop\c#,\SecondTask\obj\Debug\netcoreapp3.0\SecondTask.pdb
